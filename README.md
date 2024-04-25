@@ -36,7 +36,7 @@
 
 #### You can also find me on: 
 
-[<img align="left" alt="vivek-yogi" | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="vivek-yogi | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 
                                                                                                                                                                        
 
