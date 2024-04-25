@@ -44,7 +44,7 @@
 
 <hr>
 
-[linkedin]: [(www.linkedin.com/in/vivek-yogi-634a9135/)]
+[linkedin]: [(https://www.linkedin.com/in/vivek-yogi-634a9135)]
 
 
 
